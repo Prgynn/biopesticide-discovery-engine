@@ -1,0 +1,60 @@
+{
+  "whitefly_cotton": {
+    "pest": "whitefly",
+    "crop": "cotton",
+    "papers_found": 2,
+    "papers": [
+      {
+        "pubmed_id": "40221819",
+        "content": "\nPMID- 40221819\nOWN - NLM\nSTAT- MEDLINE\nDCOM- 20250616\nLR  - 20250721\nIS  - 1938-291X (Electronic)\nIS  - 0022-0493 (Linking)\nVI  - 118\nIP  - 3\nDP  - 2025 Jun 13\nTI  - A combination of predator and selective pesticide improves control of resistant \n      Aphis gossypii (Hemiptera: Aphididae).\nPG  - 1083-1092\nLID - 10.1093/jee/toaf068 [doi]\nAB  - The cotton aphid, Aphis gossypii Glover (Hemiptera: Aphididae), is a major pest \n      in cotton production, notorious for its rapid development of resistance to \n      pesticides, which complicates control efforts. A sustainable solution involves \n    "
+      },
+      {
+        "pubmed_id": "40003799",
+        "content": "\nPMID- 40003799\nOWN - NLM\nSTAT- PubMed-not-MEDLINE\nLR  - 20250228\nIS  - 2075-4450 (Print)\nIS  - 2075-4450 (Electronic)\nIS  - 2075-4450 (Linking)\nVI  - 16\nIP  - 2\nDP  - 2025 Feb 5\nTI  - New Records of Phenacoccus solenopsis Natural Enemies in Europe and Taxonomic \n      Additions on Anagyrus matritensis.\nLID - 10.3390/insects16020169 [doi]\nLID - 169\nAB  - The cotton mealybug Phenacoccus solenopsis (Hemiptera: Pseudococcidae) is a \n      polyphagous invasive species native to America and considered one of the major \n      cotton pests in Asia. It is currently threatening horticultural and orname"
+      }
+    ]
+  },
+  "aphids_mustard": {
+    "pest": "aphids",
+    "crop": "mustard",
+    "papers_found": 1,
+    "papers": [
+      {
+        "pubmed_id": "15816031",
+        "content": "\nPMID- 15816031\nOWN - NLM\nSTAT- MEDLINE\nDCOM- 20050920\nLR  - 20050412\nIS  - 1059-910X (Print)\nIS  - 1059-910X (Linking)\nVI  - 66\nIP  - 1\nDP  - 2005 Jan 1\nTI  - Effect of Eupatorium adenophorum Spreng leaf extracts on the mustard aphid, \n      Lipaphis erysimi Kalt: a scanning electron microscope study.\nPG  - 31-6\nAB  - Scanning electron microscopic study revealed some remarkable adverse effects of \n      Eupatorium adenophorum Spreng leaf extract on cuticular and antennal sensilla of \n      the mustard aphid, Lipaphis erysimi Kalt. The study appears to be the first of \n      its kind in provid"
+      }
+    ]
+  },
+  "stem borer_rice": {
+    "pest": "stem borer",
+    "crop": "rice",
+    "papers_found": 1,
+    "papers": [
+      {
+        "pubmed_id": "41533767",
+        "content": "\nPMID- 41533767\nOWN - NLM\nSTAT- In-Process\nLR  - 20260604\nIS  - 1938-291X (Electronic)\nIS  - 0022-0493 (Linking)\nVI  - 119\nIP  - 2\nDP  - 2026 Apr 1\nTI  - Toxicity and sublethal effects of cyproflanilide on Cotesia chilonis \n      (Hymenoptera: Braconidae).\nPG  - 1303-1311\nLID - 10.1093/jee/toaf356 [doi]\nAB  - The novel meta-diamide insecticide cyproflanilide is highly effective on the rice \n      stem borer, Chilo suppressalis (Lepidoptera: Pyralidae). Nevertheless, the \n      sublethal effects on key natural enemies, such as Cotesia chilonis (Hymenoptera: \n      Braconidae), remain unexplored"
+      }
+    ]
+  },
+  "thrips_chili": {
+    "pest": "thrips",
+    "crop": "chili",
+    "papers_found": 0,
+    "papers": []
+  },
+  "brown planthopper_rice": {
+    "pest": "brown planthopper",
+    "crop": "rice",
+    "papers_found": 2,
+    "papers": [
+      {
+        "pubmed_id": "40257666",
+        "content": "\nPMID- 40257666\nOWN - NLM\nSTAT- PubMed-not-MEDLINE\nLR  - 20250501\nIS  - 2948-2801 (Electronic)\nIS  - 2948-2801 (Linking)\nVI  - 3\nIP  - 2\nDP  - 2025 Apr 21\nTI  - Nepenthes chitinase NkChit2b- 1 confers broad-spectrum resistance to \n      chitin-containing pathogens and insects in plants.\nPG  - 12\nLID - 10.1007/s44307-025-00066-8 [doi]\nLID - 12\nAB  - Chitinases play critical roles in plant-pathogen/insect interactions by degrading \n      chitin, a key structural component of fungal cell walls and insect \n      exoskeletons. However, current research lacks comprehensive studies on the \n      broa"
+      },
+      {
+        "pubmed_id": "38795878",
+        "content": "\nPMID- 38795878\nOWN - NLM\nSTAT- MEDLINE\nDCOM- 20240619\nLR  - 20240619\nIS  - 1879-0003 (Electronic)\nIS  - 0141-8130 (Linking)\nVI  - 271\nIP  - Pt 2\nDP  - 2024 Jun\nTI  - Spraying double-stranded RNA targets UDP-N-acetylglucosamine pyrophosphorylase in \n      the control of Nilaparvata lugens.\nPG  - 132455\nLID - S0141-8130(24)03260-4 [pii]\nLID - 10.1016/j.ijbiomac.2024.132455 [doi]\nAB  - The rice pest Nilaparvata lugens (the brown planthopper, BPH) has developed \n      different levels of resistance to at least 11 chemical pesticides. RNAi \n      technology has contributed to the development of en"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "whitefly_cotton": {
+    "pest": "whitefly",
+    "crop": "cotton",
+    "compounds_found": [
+      "LR  - 20250228",
+      "LR  - 20250721",
+      "Phenacoccus",
+      "OWN - NLM"
+    ],
+    "count": 4
+  },
+  "aphids_mustard": {
+    "pest": "aphids",
+    "crop": "mustard",
+    "compounds_found": [
+      "extract",
+      "LR  - 20050412",
+      "OWN - NLM"
+    ],
+    "count": 3
+  },
+  "stem borer_rice": {
+    "pest": "stem borer",
+    "crop": "rice",
+    "compounds_found": [
+      "Braconidae",
+      "OWN - NLM"
+    ],
+    "count": 2
+  },
+  "thrips_chili": {
+    "pest": "thrips",
+    "crop": "chili",
+    "compounds_found": [],
+    "count": 0
+  },
+  "brown planthopper_rice": {
+    "pest": "brown planthopper",
+    "crop": "rice",
+    "compounds_found": [
+      "Nilaparvata",
+      "OWN - NLM",
+      "UDP-N-acetylglucosamine",
+      "LR  - 20240619",
+      "LR  - 20250501"
+    ],
+    "count": 5
+  }
+}
