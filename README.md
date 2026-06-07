@@ -56,7 +56,21 @@ Building at the intersection of AI and chemistry.
 
 Active development. AI analysis layer coming soon.  
 
+## Current Capabilities
 
+- Federated search across PubMed, Semantic Scholar, Europe PMC
+- 123 papers across 13 elite Indian crop pests
+- Full text XML extraction from open access papers
+- 56 experimental tables extracted from scientific papers
+- NLP compound extraction using spaCy
+- Molecular property analysis using RDKit
+- Automated knowledge base with progress saving
+
+## Coming Soon
+
+- Multi-agent jury debate system
+- Molecular docking via AutoDock Vina
+- AI-powered compound ranking and hypothesis generation
 
 
 
