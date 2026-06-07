@@ -1,0 +1,137 @@
+{
+  "whitefly_cotton": {
+    "pest": "whitefly",
+    "crop": "cotton",
+    "papers_with_tables": []
+  },
+  "aphids_mustard": {
+    "pest": "aphids",
+    "crop": "mustard",
+    "papers_with_tables": []
+  },
+  "stem borer_rice": {
+    "pest": "stem borer",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "thrips_chili": {
+    "pest": "thrips",
+    "crop": "chili",
+    "papers_with_tables": []
+  },
+  "brown planthopper_rice": {
+    "pest": "brown planthopper",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "Spodoptera frugiperda_maize": {
+    "pest": "Spodoptera frugiperda",
+    "crop": "maize",
+    "papers_with_tables": []
+  },
+  "Helicoverpa armigera_cotton": {
+    "pest": "Helicoverpa armigera",
+    "crop": "cotton",
+    "papers_with_tables": []
+  },
+  "Nilaparvata lugens_rice": {
+    "pest": "Nilaparvata lugens",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "Scirpophaga incertulas_rice": {
+    "pest": "Scirpophaga incertulas",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "Bemisia tabaci_tomato": {
+    "pest": "Bemisia tabaci",
+    "crop": "tomato",
+    "papers_with_tables": []
+  },
+  "Tuta absoluta_tomato": {
+    "pest": "Tuta absoluta",
+    "crop": "tomato",
+    "papers_with_tables": []
+  },
+  "Plutella xylostella_mustard": {
+    "pest": "Plutella xylostella",
+    "crop": "mustard",
+    "papers_with_tables": []
+  },
+  "Leucinodes orbonalis_brinjal": {
+    "pest": "Leucinodes orbonalis",
+    "crop": "brinjal",
+    "papers_with_tables": []
+  },
+  "Bactrocera dorsalis_mango": {
+    "pest": "Bactrocera dorsalis",
+    "crop": "mango",
+    "papers_with_tables": []
+  },
+  "Meloidogyne incognita_vegetables": {
+    "pest": "Meloidogyne incognita",
+    "crop": "vegetables",
+    "papers_with_tables": []
+  },
+  "stem_borer_rice": {
+    "pest": "stem borer",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "brown_planthopper_rice": {
+    "pest": "brown planthopper",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "Spodoptera_frugiperda_maize": {
+    "pest": "Spodoptera frugiperda",
+    "crop": "maize",
+    "papers_with_tables": []
+  },
+  "Helicoverpa_armigera_cotton": {
+    "pest": "Helicoverpa armigera",
+    "crop": "cotton",
+    "papers_with_tables": []
+  },
+  "Nilaparvata_lugens_rice": {
+    "pest": "Nilaparvata lugens",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "Scirpophaga_incertulas_rice": {
+    "pest": "Scirpophaga incertulas",
+    "crop": "rice",
+    "papers_with_tables": []
+  },
+  "Bemisia_tabaci_tomato": {
+    "pest": "Bemisia tabaci",
+    "crop": "tomato",
+    "papers_with_tables": []
+  },
+  "Tuta_absoluta_tomato": {
+    "pest": "Tuta absoluta",
+    "crop": "tomato",
+    "papers_with_tables": []
+  },
+  "Plutella_xylostella_mustard": {
+    "pest": "Plutella xylostella",
+    "crop": "mustard",
+    "papers_with_tables": []
+  },
+  "Leucinodes_orbonalis_brinjal": {
+    "pest": "Leucinodes orbonalis",
+    "crop": "brinjal",
+    "papers_with_tables": []
+  },
+  "Bactrocera_dorsalis_mango": {
+    "pest": "Bactrocera dorsalis",
+    "crop": "mango",
+    "papers_with_tables": []
+  },
+  "Meloidogyne_incognita_vegetables": {
+    "pest": "Meloidogyne incognita",
+    "crop": "vegetables",
+    "papers_with_tables": []
+  }
+}

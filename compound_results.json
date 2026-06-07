@@ -3,29 +3,31 @@
     "pest": "whitefly",
     "crop": "cotton",
     "compounds_found": [
-      "LR  - 20250228",
-      "LR  - 20250721",
-      "Phenacoccus",
-      "OWN - NLM"
+      "OWN - NLM",
+      "Movento on Bemisia",
+      "LR  - 20260128"
     ],
-    "count": 4
+    "count": 3
   },
   "aphids_mustard": {
     "pest": "aphids",
     "crop": "mustard",
     "compounds_found": [
-      "extract",
-      "LR  - 20050412",
-      "OWN - NLM"
+      "OWN - NLM",
+      "Cephidae",
+      "LR  - 20190626",
+      "Cephus cinctus Norton",
+      "LR  - 20191031",
+      "L. erysimi"
     ],
-    "count": 3
+    "count": 6
   },
   "stem borer_rice": {
     "pest": "stem borer",
     "crop": "rice",
     "compounds_found": [
-      "Braconidae",
-      "OWN - NLM"
+      "OWN - NLM",
+      "Braconidae"
     ],
     "count": 2
   },
@@ -39,12 +41,440 @@
     "pest": "brown planthopper",
     "crop": "rice",
     "compounds_found": [
-      "Nilaparvata",
-      "OWN - NLM",
-      "UDP-N-acetylglucosamine",
       "LR  - 20240619",
-      "LR  - 20250501"
+      "LR  - 20250501",
+      "OWN - NLM",
+      "Nilaparvata",
+      "UDP-N-acetylglucosamine"
     ],
     "count": 5
+  },
+  "Spodoptera frugiperda_maize": {
+    "pest": "Spodoptera frugiperda",
+    "crop": "maize",
+    "compounds_found": [
+      "LR  - 20250802",
+      "OWN - NLM",
+      "LR  - 20241128",
+      "the Chemical Control",
+      "oil",
+      "Augmentative Biological Control",
+      "Spodoptera",
+      "Challenges"
+    ],
+    "count": 8
+  },
+  "Helicoverpa armigera_cotton": {
+    "pest": "Helicoverpa armigera",
+    "crop": "cotton",
+    "compounds_found": [
+      "beauveria",
+      "OWN - NLM",
+      "Enhances Virulence",
+      "LR  - 20260427",
+      "Helicoverpa"
+    ],
+    "count": 5
+  },
+  "Nilaparvata lugens_rice": {
+    "pest": "Nilaparvata lugens",
+    "crop": "rice",
+    "compounds_found": [
+      "OWN - NLM",
+      "beauveria",
+      "LR  - 20250227",
+      "LR  - 20250501"
+    ],
+    "count": 4
+  },
+  "Scirpophaga incertulas_rice": {
+    "pest": "Scirpophaga incertulas",
+    "crop": "rice",
+    "compounds_found": [],
+    "count": 0
+  },
+  "Bemisia tabaci_tomato": {
+    "pest": "Bemisia tabaci",
+    "crop": "tomato",
+    "compounds_found": [
+      "beauveria",
+      "B. tabaci",
+      "Frankliniella",
+      "extract",
+      "OWN - NLM",
+      "LR  - 20250519",
+      "Selectivity",
+      "Vuill",
+      "LR  - 20250731"
+    ],
+    "count": 9
+  },
+  "Tuta absoluta_tomato": {
+    "pest": "Tuta absoluta",
+    "crop": "tomato",
+    "compounds_found": [
+      "LR  - 20260512",
+      "Time-Course Transcriptomics of Host Immune \n      ",
+      "extract",
+      "OWN - NLM",
+      "DR Congo",
+      "LR  - 20260330"
+    ],
+    "count": 6
+  },
+  "Plutella xylostella_mustard": {
+    "pest": "Plutella xylostella",
+    "crop": "mustard",
+    "compounds_found": [],
+    "count": 0
+  },
+  "Leucinodes orbonalis_brinjal": {
+    "pest": "Leucinodes orbonalis",
+    "crop": "brinjal",
+    "compounds_found": [],
+    "count": 0
+  },
+  "Bactrocera dorsalis_mango": {
+    "pest": "Bactrocera dorsalis",
+    "crop": "mango",
+    "compounds_found": [
+      "OWN - NLM",
+      "B. correcta",
+      "LR  - 20240328"
+    ],
+    "count": 3
+  },
+  "Meloidogyne incognita_vegetables": {
+    "pest": "Meloidogyne incognita",
+    "crop": "vegetables",
+    "compounds_found": [
+      "OWN - NLM",
+      "LR  - 20241116",
+      "bacillus"
+    ],
+    "count": 3
+  },
+  "stem_borer_rice": {
+    "pest": "stem borer",
+    "crop": "rice",
+    "compounds_found": [
+      "Trichogramma",
+      "LR  - 20200226",
+      "Nicotiana",
+      "bacillus",
+      "Trichoderma",
+      "beauveria",
+      "KMD2",
+      "Minghui 63",
+      "LR  - 20260511",
+      "metarhizium",
+      "LR  - 20260127",
+      "OWN - NLM",
+      "trichoderma",
+      "phenol",
+      "LR  - 20260216",
+      "LR  - 20180228",
+      "LR  - 20211214",
+      "Sitotroga",
+      "LR  - 20201209",
+      "LR  - 20201230",
+      "LR  - 20240825",
+      "Saccharomyces",
+      "Nilaparvata"
+    ],
+    "count": 23
+  },
+  "brown_planthopper_rice": {
+    "pest": "brown planthopper",
+    "crop": "rice",
+    "compounds_found": [
+      "LR  - 20251223",
+      "LR  - 20251205",
+      "N. lugens",
+      "the Genetic and Biochemical Mechanisms of Rice Resistance",
+      "LR  - 20240830",
+      "NlSP7",
+      "LR  - 20241028",
+      "LR  - 20241022",
+      "flavonoid",
+      "LR  - 20251218",
+      "LR  - 20240814",
+      "Cordyceps",
+      "LR  - 20250703",
+      "FIB-SEM",
+      "OWN - NLM",
+      "JAMYB",
+      "Saliva",
+      "phenol",
+      "LR  - 20240212",
+      "LR  - 20250615",
+      "LR  - 20250424",
+      "LID - 10.1111/nph.70059",
+      "LR  - 20231216",
+      "Stal",
+      "Nilaparvata"
+    ],
+    "count": 25
+  },
+  "Spodoptera_frugiperda_maize": {
+    "pest": "Spodoptera frugiperda",
+    "crop": "maize",
+    "compounds_found": [
+      "Transgenic Maize",
+      "L8-22",
+      "Shimbori",
+      "Rhizosphere Activate",
+      "LR  - 20250207",
+      "Trichogramma",
+      "LR  - 20250518",
+      "LR  - 20241128",
+      "Aleiodes",
+      "Spodoptera",
+      "Challenges",
+      "LR  - 20260330",
+      "bacillus",
+      "Shandong Academy of Agricultural Sciences",
+      "beauveria",
+      "JE Smith",
+      "extract",
+      "LR  - 20250915",
+      "LR  - 20241204",
+      "LR  - 20251218",
+      "Preserve Them",
+      "Helicoverpa armigera",
+      "LR  - 20250131",
+      "metarhizium",
+      "Smith",
+      "LR  - 20260127",
+      "conidia/mL",
+      "Isolates Under Greenhouse and Small-Scale Field Conditions",
+      "OWN - NLM",
+      "Z9-14",
+      "Augmentative Biological Control",
+      "Plant Direct",
+      "Selected Mexican Metarhizium",
+      "Fusarium",
+      "Larval-Pupal Parasitoids Associated",
+      "Kokoli Daneri",
+      "LR  - 20250514",
+      "Against Diseases",
+      "Sitotroga",
+      "Agricultural Crop Pest",
+      "LR  - 20250801",
+      "oil",
+      "Spodoptera Guenee",
+      "LR  - 20260311",
+      "LR  - 20260328",
+      "Mito-Nuclear Combinations Facilitate the Global Invasion of"
+    ],
+    "count": 46
+  },
+  "Helicoverpa_armigera_cotton": {
+    "pest": "Helicoverpa armigera",
+    "crop": "cotton",
+    "compounds_found": [
+      "Bt Cotton: Achievements",
+      "LR  - 20250830",
+      "LR  - 20240328",
+      "H. armigera",
+      "HaCTL1a and/or HaCTL1b",
+      "Toll",
+      "Yeast-Derived Pheromones",
+      "Spodoptera",
+      "Dysdercus",
+      "bacillus",
+      "gossypol",
+      "beauveria",
+      "LR  - 20211028",
+      "JE Smith",
+      "extract",
+      "Emamectin",
+      "LR  - 20250915",
+      "LR  - 20211129",
+      "Enhances Virulence",
+      "H. armigera larvae",
+      "Helicoverpa armigera",
+      "LR  - 20260127",
+      "OWN - NLM",
+      "phenol",
+      "LR  - 20210223",
+      "LR  - 20240208",
+      "LR  - 20250531",
+      "Apolygus",
+      "Pheromone-Binding Protein PBP1",
+      "Stal",
+      "Helicoverpa",
+      "Phenacoccus",
+      "Koinobiont"
+    ],
+    "count": 33
+  },
+  "Nilaparvata_lugens_rice": {
+    "pest": "Nilaparvata lugens",
+    "crop": "rice",
+    "compounds_found": [
+      "LR  - 20251223",
+      "LR  - 20251204",
+      "Ninaparvata",
+      "LR  - 20260302",
+      "N. lugens",
+      "KN802",
+      "WBPH",
+      "beauveria",
+      "LR  - 20240830",
+      "NlSP7",
+      "LR  - 20250227",
+      "LR  - 20241028",
+      "LR  - 20241022",
+      "flavonoid",
+      "LR  - 20251218",
+      "Delphacidae",
+      "LR  - 20240814",
+      "Cordyceps",
+      "FIB-SEM",
+      "OWN - NLM",
+      "LR  - 20240529",
+      "KN801",
+      "Saliva",
+      "phenol",
+      "LR  - 20240212",
+      "LR  - 20250615",
+      "Stal",
+      "alkaloid",
+      "Nilaparvata",
+      "LR  - 20260311"
+    ],
+    "count": 30
+  },
+  "Scirpophaga_incertulas_rice": {
+    "pest": "Scirpophaga incertulas",
+    "crop": "rice",
+    "compounds_found": [
+      "Trichoderma",
+      "beauveria",
+      "KMD2",
+      "OWN - NLM",
+      "LR  - 20201209",
+      "Minghui 63",
+      "trichoderma",
+      "Nilaparvata",
+      "metarhizium",
+      "bacillus"
+    ],
+    "count": 10
+  },
+  "Bemisia_tabaci_tomato": {
+    "pest": "Bemisia tabaci",
+    "crop": "tomato",
+    "compounds_found": [
+      "Trialeurodes",
+      "B. tabaci",
+      "LR  - 20240428",
+      "LR  - 20250519",
+      "AAUMB-29",
+      "LR  - 20211228",
+      "LR  - 20250714",
+      "LR  - 20240304",
+      "LR  - 20230308",
+      "beauveria",
+      "LR  - 20230615",
+      "Geminiviridae",
+      "LR  - 20220401",
+      "Psyllaephagus",
+      "flavonoid",
+      "Bally) Samson & Hywel-jone",
+      "Retain Predatory Mirids",
+      "LR  - 20230815",
+      "metarhizium",
+      "LR  - 20220506",
+      "Eucalyptus",
+      "Integrated \n      Pest Management",
+      "OWN - NLM",
+      "ToCV",
+      "LR  - 20221207",
+      "Metarhizium",
+      "LR  - 20220920",
+      "Biological",
+      "B. tabaci MED",
+      "Purpureocillium",
+      "eucalyptus",
+      "Induced",
+      "Gennadius",
+      "Vuill",
+      "Isariajavanica",
+      "oil",
+      "LR  - 20250728",
+      "LR  - 20260311",
+      "Control Whitefly"
+    ],
+    "count": 39
+  },
+  "Tuta_absoluta_tomato": {
+    "pest": "Tuta absoluta",
+    "crop": "tomato",
+    "compounds_found": [
+      "OWN - NLM",
+      "LR  - 20140822"
+    ],
+    "count": 2
+  },
+  "Plutella_xylostella_mustard": {
+    "pest": "Plutella xylostella",
+    "crop": "mustard",
+    "compounds_found": [],
+    "count": 0
+  },
+  "Leucinodes_orbonalis_brinjal": {
+    "pest": "Leucinodes orbonalis",
+    "crop": "brinjal",
+    "compounds_found": [
+      "OWN - NLM",
+      "oil",
+      "LR  - 20191109"
+    ],
+    "count": 3
+  },
+  "Bactrocera_dorsalis_mango": {
+    "pest": "Bactrocera dorsalis",
+    "crop": "mango",
+    "compounds_found": [
+      "Development of the Oriental Fruit Fly",
+      "OWN - NLM",
+      "Hendel",
+      "LR  - 20200306",
+      "B. correcta",
+      "LR  - 20240328",
+      "Affect Oviposition Behavior",
+      "Mango Fruit"
+    ],
+    "count": 8
+  },
+  "Meloidogyne_incognita_vegetables": {
+    "pest": "Meloidogyne incognita",
+    "crop": "vegetables",
+    "compounds_found": [
+      "LR  - 20230217",
+      "LR  - 20260605",
+      "Tylenchida",
+      "bacillus",
+      "Trichoderma",
+      "extract",
+      "M520",
+      "Gall \n      Development",
+      "LR  - 20250529",
+      "OWN - NLM",
+      "trichoderma",
+      "LR  - 20260601",
+      "LR  - 20221207",
+      "Fusarium",
+      "Methylorubrum",
+      "Alkaline",
+      "LR  - 20250801",
+      "oil",
+      "Rhizoctonia",
+      "Goddard) Zare & Gams",
+      "LR  - 20241116"
+    ],
+    "count": 21
   }
 }
