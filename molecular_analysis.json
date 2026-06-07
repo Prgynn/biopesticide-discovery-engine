@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Azadirachtin",
+    "molecular_weight": 156.18,
+    "logP": 1.2,
+    "h_bond_donors": 1,
+    "h_bond_acceptors": 2,
+    "passes_safety_filter": true,
+    "valid": true
+  },
+  {
+    "name": "Pyrethrin",
+    "molecular_weight": 164.25,
+    "logP": 2.73,
+    "h_bond_donors": 0,
+    "h_bond_acceptors": 1,
+    "passes_safety_filter": true,
+    "valid": true
+  },
+  {
+    "name": "Rotenone",
+    "molecular_weight": 190.2,
+    "logP": 1.31,
+    "h_bond_donors": 0,
+    "h_bond_acceptors": 3,
+    "passes_safety_filter": true,
+    "valid": true
+  },
+  {
+    "name": "Neem oil",
+    "molecular_weight": 172.27,
+    "logP": 2.91,
+    "h_bond_donors": 0,
+    "h_bond_acceptors": 2,
+    "passes_safety_filter": true,
+    "valid": true
+  },
+  {
+    "name": "Limonene",
+    "molecular_weight": 134.22,
+    "logP": 3.23,
+    "h_bond_donors": 0,
+    "h_bond_acceptors": 0,
+    "passes_safety_filter": true,
+    "valid": true
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "whitefly_cotton": {
+    "pest": "whitefly",
+    "crop": "cotton",
+    "papers_analyzed": 2,
+    "compounds_found": [
+      "LR  - 20250228",
+      "Phenacoccus",
+      "OWN - NLM",
+      "Afidopyropen",
+      "LR  - 20250721"
+    ],
+    "molecular_analysis": {}
+  },
+  "aphids_mustard": {
+    "pest": "aphids",
+    "crop": "mustard",
+    "papers_analyzed": 1,
+    "compounds_found": [
+      "extract",
+      "LR  - 20050412",
+      "OWN - NLM"
+    ],
+    "molecular_analysis": {}
+  },
+  "stem borer_rice": {
+    "pest": "stem borer",
+    "crop": "rice",
+    "papers_analyzed": 1,
+    "compounds_found": [
+      "Braconidae",
+      "OWN - NLM"
+    ],
+    "molecular_analysis": {}
+  }
+}
