@@ -54,7 +54,7 @@ Building at the intersection of AI and chemistry.
 
 ## Status
 
-Active development. AI analysis layer coming soon.  
+Evidence-driven scientific discovery engine coming soon.  
 
 ## Current Capabilities
 
