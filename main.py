@@ -14,6 +14,18 @@ INDIAN_PESTS = [
     {"pest": "whitefly", "crop": "cotton"},
     {"pest": "aphids", "crop": "mustard"},
     {"pest": "stem borer", "crop": "rice"},
+    {"pest": "thrips", "crop": "chili"},
+    {"pest": "brown planthopper", "crop": "rice"},
+    {"pest": "Spodoptera frugiperda", "crop": "maize"},
+    {"pest": "Helicoverpa armigera", "crop": "cotton"},
+    {"pest": "Nilaparvata lugens", "crop": "rice"},
+    {"pest": "Scirpophaga incertulas", "crop": "rice"},
+    {"pest": "Bemisia tabaci", "crop": "tomato"},
+    {"pest": "Tuta absoluta", "crop": "tomato"},
+    {"pest": "Plutella xylostella", "crop": "mustard"},
+    {"pest": "Leucinodes orbonalis", "crop": "brinjal"},
+    {"pest": "Bactrocera dorsalis", "crop": "mango"},
+    {"pest": "Meloidogyne incognita", "crop": "vegetables"},
 ]
 
 KNOWN_COMPOUNDS = {
