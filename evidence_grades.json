@@ -1,0 +1,274 @@
+[
+  {
+    "compound": "Bacillus",
+    "supporting_papers": 12,
+    "average_quality": 53.3,
+    "field_trials_found": false,
+    "confidence_percent": 68,
+    "evidence_grade": "B",
+    "paper_details": [
+      {
+        "pest": "Meloidogyne incognita",
+        "crop": "vegetables",
+        "pubmed_id": "39538293",
+        "quality_score": 50
+      },
+      {
+        "pest": "stem borer",
+        "crop": "rice",
+        "pubmed_id": "18330134",
+        "quality_score": 55
+      },
+      {
+        "pest": "stem borer",
+        "crop": "rice",
+        "pubmed_id": "11233125",
+        "quality_score": 50
+      },
+      {
+        "pest": "stem borer",
+        "crop": "rice",
+        "pubmed_id": "11017051",
+        "quality_score": 50
+      },
+      {
+        "pest": "Spodoptera frugiperda",
+        "crop": "maize",
+        "pubmed_id": "40305259",
+        "quality_score": 50
+      },
+      {
+        "pest": "Spodoptera frugiperda",
+        "crop": "maize",
+        "pubmed_id": "39590468",
+        "quality_score": 65
+      },
+      {
+        "pest": "Helicoverpa armigera",
+        "crop": "cotton",
+        "pubmed_id": "41848215",
+        "quality_score": 50
+      },
+      {
+        "pest": "Helicoverpa armigera",
+        "crop": "cotton",
+        "pubmed_id": "33236463",
+        "quality_score": 65
+      },
+      {
+        "pest": "Scirpophaga incertulas",
+        "crop": "rice",
+        "pubmed_id": "18330134",
+        "quality_score": 55
+      },
+      {
+        "pest": "Scirpophaga incertulas",
+        "crop": "rice",
+        "pubmed_id": "11233125",
+        "quality_score": 50
+      },
+      {
+        "pest": "Meloidogyne incognita",
+        "crop": "vegetables",
+        "pubmed_id": "42219568",
+        "quality_score": 50
+      },
+      {
+        "pest": "Meloidogyne incognita",
+        "crop": "vegetables",
+        "pubmed_id": "39538293",
+        "quality_score": 50
+      }
+    ]
+  },
+  {
+    "compound": "Beauveria",
+    "supporting_papers": 11,
+    "average_quality": 53.2,
+    "field_trials_found": false,
+    "confidence_percent": 68,
+    "evidence_grade": "B",
+    "paper_details": [
+      {
+        "pest": "Helicoverpa armigera",
+        "crop": "cotton",
+        "pubmed_id": "37272799",
+        "quality_score": 50
+      },
+      {
+        "pest": "Nilaparvata lugens",
+        "crop": "rice",
+        "pubmed_id": "39997422",
+        "quality_score": 65
+      },
+      {
+        "pest": "Bemisia tabaci",
+        "crop": "tomato",
+        "pubmed_id": "40379676",
+        "quality_score": 50
+      },
+      {
+        "pest": "stem borer",
+        "crop": "rice",
+        "pubmed_id": "37129727",
+        "quality_score": 50
+      },
+      {
+        "pest": "Spodoptera frugiperda",
+        "crop": "maize",
+        "pubmed_id": "41876596",
+        "quality_score": 50
+      },
+      {
+        "pest": "Helicoverpa armigera",
+        "crop": "cotton",
+        "pubmed_id": "37272799",
+        "quality_score": 50
+      },
+      {
+        "pest": "Nilaparvata lugens",
+        "crop": "rice",
+        "pubmed_id": "39997422",
+        "quality_score": 70
+      },
+      {
+        "pest": "Scirpophaga incertulas",
+        "crop": "rice",
+        "pubmed_id": "37129727",
+        "quality_score": 50
+      },
+      {
+        "pest": "Bemisia tabaci",
+        "crop": "tomato",
+        "pubmed_id": "40379676",
+        "quality_score": 50
+      },
+      {
+        "pest": "Bemisia tabaci",
+        "crop": "tomato",
+        "pubmed_id": "35507961",
+        "quality_score": 50
+      },
+      {
+        "pest": "Bemisia tabaci",
+        "crop": "tomato",
+        "pubmed_id": "35346347",
+        "quality_score": 50
+      }
+    ]
+  },
+  {
+    "compound": "extract",
+    "supporting_papers": 5,
+    "average_quality": 53.0,
+    "field_trials_found": false,
+    "confidence_percent": 58,
+    "evidence_grade": "C",
+    "paper_details": [
+      {
+        "pest": "Bemisia tabaci",
+        "crop": "tomato",
+        "pubmed_id": "40745421",
+        "quality_score": 50
+      },
+      {
+        "pest": "Tuta absoluta",
+        "crop": "tomato",
+        "pubmed_id": "42120516",
+        "quality_score": 50
+      },
+      {
+        "pest": "Spodoptera frugiperda",
+        "crop": "maize",
+        "pubmed_id": "40906243",
+        "quality_score": 50
+      },
+      {
+        "pest": "Helicoverpa armigera",
+        "crop": "cotton",
+        "pubmed_id": "40906243",
+        "quality_score": 50
+      },
+      {
+        "pest": "Meloidogyne incognita",
+        "crop": "vegetables",
+        "pubmed_id": "12587872",
+        "quality_score": 65
+      }
+    ]
+  },
+  {
+    "compound": "Metarhizium",
+    "supporting_papers": 5,
+    "average_quality": 51.6,
+    "field_trials_found": false,
+    "confidence_percent": 58,
+    "evidence_grade": "C",
+    "paper_details": [
+      {
+        "pest": "stem borer",
+        "crop": "rice",
+        "pubmed_id": "37129727",
+        "quality_score": 50
+      },
+      {
+        "pest": "Spodoptera frugiperda",
+        "crop": "maize",
+        "pubmed_id": "40725336",
+        "quality_score": 58
+      },
+      {
+        "pest": "Scirpophaga incertulas",
+        "crop": "rice",
+        "pubmed_id": "37129727",
+        "quality_score": 50
+      },
+      {
+        "pest": "Bemisia tabaci",
+        "crop": "tomato",
+        "pubmed_id": "35507961",
+        "quality_score": 50
+      },
+      {
+        "pest": "Bemisia tabaci",
+        "crop": "tomato",
+        "pubmed_id": "35346347",
+        "quality_score": 50
+      }
+    ]
+  },
+  {
+    "compound": "Trichoderma",
+    "supporting_papers": 4,
+    "average_quality": 53.8,
+    "field_trials_found": false,
+    "confidence_percent": 48,
+    "evidence_grade": "D",
+    "paper_details": [
+      {
+        "pest": "stem borer",
+        "crop": "rice",
+        "pubmed_id": "37129727",
+        "quality_score": 50
+      },
+      {
+        "pest": "Scirpophaga incertulas",
+        "crop": "rice",
+        "pubmed_id": "37129727",
+        "quality_score": 50
+      },
+      {
+        "pest": "Meloidogyne incognita",
+        "crop": "vegetables",
+        "pubmed_id": "41997236",
+        "quality_score": 50
+      },
+      {
+        "pest": "Meloidogyne incognita",
+        "crop": "vegetables",
+        "pubmed_id": "33008296",
+        "quality_score": 65
+      }
+    ]
+  }
+]

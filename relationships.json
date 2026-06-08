@@ -1,0 +1,70 @@
+[
+  {
+    "compound": "botanical",
+    "pest": "Bactrocera dorsalis",
+    "crop": "mango",
+    "effect_type": "repellent",
+    "study_type": "laboratory",
+    "mortality_values": [],
+    "lc50_values": [],
+    "concentrations_tested": [],
+    "confidence": "low",
+    "pubmed_id": "32181051"
+  },
+  {
+    "compound": "bacillus thuringiensis",
+    "pest": "stem borer",
+    "crop": "rice",
+    "effect_type": "mortality",
+    "study_type": "laboratory",
+    "mortality_values": [],
+    "lc50_values": [],
+    "concentrations_tested": [],
+    "confidence": "low",
+    "pubmed_id": "18330134"
+  },
+  {
+    "compound": "beauveria bassiana",
+    "pest": "Nilaparvata lugens",
+    "crop": "rice",
+    "effect_type": "mortality",
+    "study_type": "laboratory",
+    "mortality_values": [],
+    "lc50_values": [],
+    "concentrations_tested": [],
+    "confidence": "low",
+    "pubmed_id": "39997422"
+  },
+  {
+    "compound": "bacillus thuringiensis",
+    "pest": "Scirpophaga incertulas",
+    "crop": "rice",
+    "effect_type": "mortality",
+    "study_type": "laboratory",
+    "mortality_values": [],
+    "lc50_values": [],
+    "concentrations_tested": [],
+    "confidence": "low",
+    "pubmed_id": "18330134"
+  },
+  {
+    "compound": "botanical",
+    "pest": "Bactrocera dorsalis",
+    "crop": "mango",
+    "effect_type": "repellent",
+    "study_type": "laboratory",
+    "mortality_values": [
+      "5",
+      "2.5",
+      "1"
+    ],
+    "lc50_values": [],
+    "concentrations_tested": [
+      "5 %",
+      "2.5 %",
+      "1 %"
+    ],
+    "confidence": "low",
+    "pubmed_id": "32181051"
+  }
+]
