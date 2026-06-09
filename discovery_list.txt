@@ -1,0 +1,218 @@
+=================================================================
+  BIOPESTICIDE DISCOVERY ENGINE — RANKED EVIDENCE REPORT
+  Generated: 2026-06-09 14:14
+=================================================================
+
+CORPUS SUMMARY
+  Papers analysed:        513
+  Bioactivity records:    1172
+  Compound-pest pairs:    136
+  Grade A pairs:          45
+  Grade B pairs:          54
+  Grade C pairs:          1
+  Grade D pairs:          36
+
+=================================================================
+  TOP COMPOUNDS BY EVIDENCE STRENGTH
+  (Score = weighted sum across all pest targets)
+=================================================================
+
+  #01  BACILLUS
+       Score:        15
+       Pest targets: 5  stem borer, Spodoptera frugiperda, Helicoverpa armigera, Plutella xylostella...
+       Grade A:      2  Grade B: 2  Grade C: 0
+       Total papers: 209
+
+  #02  BEAUVERIA BASSIANA
+       Score:        14
+       Pest targets: 6  stem borer, Spodoptera frugiperda, Nilaparvata lugens, Bemisia tabaci...
+       Grade A:      2  Grade B: 1  Grade C: 0
+       Total papers: 60
+
+  #03  METARHIZIUM ANISOPLIAE
+       Score:        10
+       Pest targets: 5  stem borer, Spodoptera frugiperda, Bemisia tabaci, Helicoverpa armigera...
+       Grade A:      1  Grade B: 1  Grade C: 0
+       Total papers: 34
+
+  #04  BACILLUS THURINGIENSIS
+       Score:        8
+       Pest targets: 3  Helicoverpa armigera, Plutella xylostella, Spodoptera frugiperda
+       Grade A:      1  Grade B: 1  Grade C: 0
+       Total papers: 178
+
+  #05  TRICHODERMA
+       Score:        8
+       Pest targets: 3  Helicoverpa armigera, stem borer, Meloidogyne incognita
+       Grade A:      1  Grade B: 1  Grade C: 0
+       Total papers: 18
+
+  #06  EUCALYPTUS
+       Score:        8
+       Pest targets: 3  Helicoverpa armigera, Spodoptera frugiperda, Bemisia tabaci
+       Grade A:      1  Grade B: 1  Grade C: 0
+       Total papers: 12
+
+  #07  NEEM
+       Score:        7
+       Pest targets: 2  Helicoverpa armigera, Spodoptera frugiperda
+       Grade A:      1  Grade B: 1  Grade C: 0
+       Total papers: 57
+
+  #08  LANTANA
+       Score:        6
+       Pest targets: 2  Helicoverpa armigera, Spodoptera frugiperda
+       Grade A:      0  Grade B: 2  Grade C: 0
+       Total papers: 5
+
+  #09  NEEM SEED
+       Score:        5
+       Pest targets: 2  Helicoverpa armigera, Spodoptera frugiperda
+       Grade A:      1  Grade B: 0  Grade C: 0
+       Total papers: 56
+
+  #10  AZADIRACHTIN
+       Score:        5
+       Pest targets: 2  Helicoverpa armigera, Spodoptera frugiperda
+       Grade A:      1  Grade B: 0  Grade C: 0
+       Total papers: 40
+
+  #11  SPINOSAD
+       Score:        5
+       Pest targets: 2  Helicoverpa armigera, Plutella xylostella
+       Grade A:      1  Grade B: 0  Grade C: 0
+       Total papers: 36
+
+  #12  TOBACCO
+       Score:        5
+       Pest targets: 2  Helicoverpa armigera, Plutella xylostella
+       Grade A:      1  Grade B: 0  Grade C: 0
+       Total papers: 27
+
+  #13  METHANOL
+       Score:        5
+       Pest targets: 2  Helicoverpa armigera, Spodoptera frugiperda
+       Grade A:      1  Grade B: 0  Grade C: 0
+       Total papers: 16
+
+  #14  ETHYL ACETATE
+       Score:        5
+       Pest targets: 2  Helicoverpa armigera, Spodoptera frugiperda
+       Grade A:      1  Grade B: 0  Grade C: 0
+       Total papers: 16
+
+  #15  HEXANE
+       Score:        5
+       Pest targets: 2  Helicoverpa armigera, Spodoptera frugiperda
+       Grade A:      1  Grade B: 0  Grade C: 0
+       Total papers: 14
+
+
+=================================================================
+  GRADE A PAIRS  (confirmed by 5+ independent papers)
+=================================================================
+  bacillus                     -> Helicoverpa armigera           [198 papers]  avg LC50=770.67  avg mortality=66.97%
+  bacillus thuringiensis       -> Helicoverpa armigera           [175 papers]  avg LC50=770.67  avg mortality=71.63%
+  neem                         -> Helicoverpa armigera           [55 papers]  avg mortality=67.89%
+  neem seed                    -> Helicoverpa armigera           [55 papers]  avg mortality=67.89%
+  beauveria bassiana           -> Helicoverpa armigera           [49 papers]  avg mortality=72.72%
+  azadirachtin                 -> Helicoverpa armigera           [39 papers]  avg LC50=0.8  avg mortality=86.59%
+  spinosad                     -> Helicoverpa armigera           [35 papers]  avg mortality=62.11%
+  metarhizium anisopliae       -> Helicoverpa armigera           [29 papers]  avg mortality=74.0%
+  tobacco                      -> Helicoverpa armigera           [26 papers]  avg mortality=76.0%
+  emamectin                    -> Helicoverpa armigera           [25 papers]  avg LC50=0.001  avg mortality=90.18%
+  abamectin                    -> Helicoverpa armigera           [16 papers]  avg mortality=20.0%
+  trichoderma                  -> Helicoverpa armigera           [15 papers]  avg mortality=35.84%
+  methanol                     -> Helicoverpa armigera           [15 papers]  avg LC50=0.65  avg mortality=100.0%
+  ethyl acetate                -> Helicoverpa armigera           [15 papers]  avg LC50=22.69  avg mortality=85.0%
+  hexane                       -> Helicoverpa armigera           [13 papers]  avg mortality=85.0%
+  garlic                       -> Helicoverpa armigera           [11 papers]  avg mortality=39.84%
+  seed kernel                  -> Helicoverpa armigera           [11 papers]
+  linalool                     -> Helicoverpa armigera           [11 papers]  avg LC50=770.67
+  eugenol                      -> Helicoverpa armigera           [11 papers]  avg LC50=770.67  avg mortality=53.1%
+  artemisia                    -> Helicoverpa armigera           [10 papers]
+  limonene                     -> Helicoverpa armigera           [10 papers]  avg mortality=99.0%
+  lecanicillium                -> Helicoverpa armigera           [9 papers]
+  steinernema                  -> Helicoverpa armigera           [9 papers]  avg mortality=50.32%
+  nicotiana                    -> Helicoverpa armigera           [9 papers]  avg mortality=30.0%
+  ocimum                       -> Helicoverpa armigera           [9 papers]  avg mortality=99.0%
+  clove                        -> Helicoverpa armigera           [9 papers]  avg LC50=770.67  avg mortality=76.0%
+  eucalyptus                   -> Helicoverpa armigera           [9 papers]  avg mortality=76.0%
+  syzygium                     -> Helicoverpa armigera           [9 papers]  avg LC50=401.685
+  heterorhabditis              -> Helicoverpa armigera           [8 papers]  avg mortality=98.0%
+  thymol                       -> Helicoverpa armigera           [8 papers]  avg LC50=770.67
+  origanum                     -> Helicoverpa armigera           [7 papers]  avg LC50=770.67
+  citrus                       -> Helicoverpa armigera           [7 papers]  avg mortality=100.0%
+  mentha                       -> Helicoverpa armigera           [7 papers]
+  annona                       -> Helicoverpa armigera           [7 papers]
+  pongamia                     -> Helicoverpa armigera           [6 papers]
+  solanum                      -> Helicoverpa armigera           [6 papers]
+  lavandula                    -> Helicoverpa armigera           [6 papers]  avg LC50=770.67  avg mortality=100.0%
+  beauveria bassiana           -> Bemisia tabaci                 [5 papers]
+  bacillus                     -> Spodoptera frugiperda          [5 papers]  avg mortality=8.0%
+  lecanicillium lecanii        -> Helicoverpa armigera           [5 papers]
+  paecilomyces                 -> Helicoverpa armigera           [5 papers]
+  bacillus spp                 -> Helicoverpa armigera           [5 papers]
+  carvacrol                    -> Helicoverpa armigera           [5 papers]
+  plant extract                -> Helicoverpa armigera           [5 papers]  avg LC50=770.67
+  piper                        -> Helicoverpa armigera           [5 papers]
+
+
+=================================================================
+  GRADE B PAIRS  (2-4 papers or LC50 confirmed)
+=================================================================
+  thymus                       -> Helicoverpa armigera           [4 papers]
+  steinernema carpocapsae      -> Helicoverpa armigera           [4 papers]
+  capsicum                     -> Helicoverpa armigera           [4 papers]
+  phenol                       -> Helicoverpa armigera           [4 papers]  LC50=175.0
+  pyrethrin                    -> Helicoverpa armigera           [4 papers]
+  turmeric                     -> Helicoverpa armigera           [4 papers]
+  flavonoid                    -> Helicoverpa armigera           [4 papers]
+  bacillus subtilis            -> Helicoverpa armigera           [4 papers]
+  jatropha                     -> Helicoverpa armigera           [4 papers]
+  clove essential              -> Helicoverpa armigera           [4 papers]
+  bacillus                     -> stem borer                     [3 papers]
+  beauveria bassiana           -> Spodoptera frugiperda          [3 papers]
+  hirsutella                   -> Helicoverpa armigera           [3 papers]
+  melia                        -> Helicoverpa armigera           [3 papers]  LC50=0.65
+  bacillus cereus              -> Helicoverpa armigera           [3 papers]
+  alkaloid                     -> Helicoverpa armigera           [3 papers]
+  custard apple                -> Helicoverpa armigera           [3 papers]
+  vitex                        -> Helicoverpa armigera           [3 papers]
+  cinnamomum                   -> Helicoverpa armigera           [3 papers]
+  chrysanthemum                -> Helicoverpa armigera           [3 papers]
+  lantana                      -> Helicoverpa armigera           [3 papers]
+  curcuma                      -> Helicoverpa armigera           [3 papers]
+  bacillus amyloliquefaciens   -> Helicoverpa armigera           [3 papers]
+  clerodendrum                 -> Helicoverpa armigera           [3 papers]
+  citronella                   -> Helicoverpa armigera           [3 papers]
+  bisabolol                    -> Helicoverpa armigera           [3 papers]
+  aduncum essential            -> Helicoverpa armigera           [3 papers]
+  origanum vulgare             -> Helicoverpa armigera           [3 papers]  LC50=770.67
+  bacillus                     -> Meloidogyne incognita          [2 papers]
+  metarhizium anisopliae       -> Bemisia tabaci                 [2 papers]
+
+
+=================================================================
+  BROAD-SPECTRUM CANDIDATES  (active against 3+ pests)
+=================================================================
+  bacillus                       5 pests: stem borer, Spodoptera frugiperda, Helicoverpa armigera, Plutella xylostella, Meloidogyne incognita
+  beauveria bassiana             6 pests: stem borer, Spodoptera frugiperda, Nilaparvata lugens, Bemisia tabaci, Helicoverpa armigera, Plutella xylostella
+  metarhizium anisopliae         5 pests: stem borer, Spodoptera frugiperda, Bemisia tabaci, Helicoverpa armigera, Plutella xylostella
+  bacillus thuringiensis         3 pests: Helicoverpa armigera, Plutella xylostella, Spodoptera frugiperda
+  trichoderma                    3 pests: Helicoverpa armigera, stem borer, Meloidogyne incognita
+  eucalyptus                     3 pests: Helicoverpa armigera, Spodoptera frugiperda, Bemisia tabaci
+
+
+=================================================================
+  EVIDENCE GRADE EXPLANATION
+=================================================================
+
+  A  = 5+ independent papers confirm bioactivity (publication consensus)
+  B  = 2-4 papers OR single paper with LC50 value
+  C  = Single paper with mortality percentage only
+  D  = Compound mentioned near pest, no quantitative data
+
+  To upgrade D -> C: run day10/day11 full text extraction
+  To upgrade C -> B: need LC50 values in paper text
+  To upgrade B -> A: need 5+ papers per compound-pest pair

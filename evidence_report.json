@@ -1,0 +1,2771 @@
+{
+  "generated_at": "2026-06-09T14:14:35.801997",
+  "stats": {
+    "total_records": 1172,
+    "total_pairs": 136,
+    "total_papers": 513,
+    "grade_A": 45,
+    "grade_B": 54,
+    "grade_C": 1,
+    "grade_D": 36
+  },
+  "top_compounds": [
+    {
+      "compound": "bacillus",
+      "n_pests": 5,
+      "pests": [
+        "stem borer",
+        "Spodoptera frugiperda",
+        "Helicoverpa armigera",
+        "Plutella xylostella",
+        "Meloidogyne incognita"
+      ],
+      "grade_A": 2,
+      "grade_B": 2,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 209,
+      "score": 15
+    },
+    {
+      "compound": "beauveria bassiana",
+      "n_pests": 6,
+      "pests": [
+        "stem borer",
+        "Spodoptera frugiperda",
+        "Nilaparvata lugens",
+        "Bemisia tabaci",
+        "Helicoverpa armigera",
+        "Plutella xylostella"
+      ],
+      "grade_A": 2,
+      "grade_B": 1,
+      "grade_C": 0,
+      "grade_D": 3,
+      "total_papers": 60,
+      "score": 14
+    },
+    {
+      "compound": "metarhizium anisopliae",
+      "n_pests": 5,
+      "pests": [
+        "stem borer",
+        "Spodoptera frugiperda",
+        "Bemisia tabaci",
+        "Helicoverpa armigera",
+        "Plutella xylostella"
+      ],
+      "grade_A": 1,
+      "grade_B": 1,
+      "grade_C": 0,
+      "grade_D": 3,
+      "total_papers": 34,
+      "score": 10
+    },
+    {
+      "compound": "bacillus thuringiensis",
+      "n_pests": 3,
+      "pests": [
+        "Helicoverpa armigera",
+        "Plutella xylostella",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 1,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 178,
+      "score": 8
+    },
+    {
+      "compound": "trichoderma",
+      "n_pests": 3,
+      "pests": [
+        "Helicoverpa armigera",
+        "stem borer",
+        "Meloidogyne incognita"
+      ],
+      "grade_A": 1,
+      "grade_B": 1,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 18,
+      "score": 8
+    },
+    {
+      "compound": "eucalyptus",
+      "n_pests": 3,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda",
+        "Bemisia tabaci"
+      ],
+      "grade_A": 1,
+      "grade_B": 1,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 12,
+      "score": 8
+    },
+    {
+      "compound": "neem",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 1,
+      "grade_C": 0,
+      "grade_D": 0,
+      "total_papers": 57,
+      "score": 7
+    },
+    {
+      "compound": "lantana",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 0,
+      "grade_B": 2,
+      "grade_C": 0,
+      "grade_D": 0,
+      "total_papers": 5,
+      "score": 6
+    },
+    {
+      "compound": "neem seed",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 56,
+      "score": 5
+    },
+    {
+      "compound": "azadirachtin",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 40,
+      "score": 5
+    },
+    {
+      "compound": "spinosad",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Plutella xylostella"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 36,
+      "score": 5
+    },
+    {
+      "compound": "tobacco",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Plutella xylostella"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 27,
+      "score": 5
+    },
+    {
+      "compound": "methanol",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 16,
+      "score": 5
+    },
+    {
+      "compound": "ethyl acetate",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 16,
+      "score": 5
+    },
+    {
+      "compound": "hexane",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 14,
+      "score": 5
+    },
+    {
+      "compound": "linalool",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 12,
+      "score": 5
+    },
+    {
+      "compound": "eugenol",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Bemisia tabaci"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 12,
+      "score": 5
+    },
+    {
+      "compound": "artemisia",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 11,
+      "score": 5
+    },
+    {
+      "compound": "lecanicillium",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Plutella xylostella"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 10,
+      "score": 5
+    },
+    {
+      "compound": "nicotiana",
+      "n_pests": 2,
+      "pests": [
+        "Helicoverpa armigera",
+        "Spodoptera frugiperda"
+      ],
+      "grade_A": 1,
+      "grade_B": 0,
+      "grade_C": 0,
+      "grade_D": 1,
+      "total_papers": 10,
+      "score": 5
+    }
+  ],
+  "graded_pairs": [
+    {
+      "compound_id": 302,
+      "compound": "bacillus",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 198,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": true,
+      "avg_mortality": 66.97,
+      "paper_ids": [
+        41989638,
+        1030,
+        41326088,
+        20196874,
+        1038,
+        38709777,
+        1049,
+        31425563,
+        27257885,
+        40265761
+      ]
+    },
+    {
+      "compound_id": 317,
+      "compound": "bacillus thuringiensis",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 175,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": true,
+      "avg_mortality": 71.63,
+      "paper_ids": [
+        41989638,
+        1030,
+        41326088,
+        20196874,
+        1038,
+        38709777,
+        1049,
+        31425563,
+        27257885,
+        22949921
+      ]
+    },
+    {
+      "compound_id": 295,
+      "compound": "neem",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 55,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 67.89,
+      "paper_ids": [
+        897,
+        386,
+        387,
+        36234639,
+        27790224,
+        529,
+        530,
+        38653843,
+        1039,
+        28860055
+      ]
+    },
+    {
+      "compound_id": 371,
+      "compound": "neem seed",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 55,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 67.89,
+      "paper_ids": [
+        897,
+        386,
+        387,
+        36234639,
+        27790224,
+        529,
+        530,
+        38653843,
+        1039,
+        28860055
+      ]
+    },
+    {
+      "compound_id": 300,
+      "compound": "beauveria bassiana",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 49,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 72.72,
+      "paper_ids": [
+        772,
+        389,
+        11,
+        30384907,
+        1039,
+        1041,
+        37630610,
+        "PMC13034444",
+        1054,
+        34684191
+      ]
+    },
+    {
+      "compound_id": 296,
+      "compound": "azadirachtin",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 39,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 0.8,
+      "has_mortality": true,
+      "avg_mortality": 86.59,
+      "paper_ids": [
+        386,
+        387,
+        37967118,
+        36234639,
+        27790224,
+        1039,
+        28860055,
+        41356439,
+        539,
+        1051
+      ]
+    },
+    {
+      "compound_id": 299,
+      "compound": "spinosad",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 35,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 62.11,
+      "paper_ids": [
+        897,
+        386,
+        38787856,
+        42188177,
+        20150928,
+        1172,
+        "PMC13034444",
+        542,
+        806,
+        938
+      ]
+    },
+    {
+      "compound_id": 301,
+      "compound": "metarhizium anisopliae",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 29,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 74.0,
+      "paper_ids": [
+        772,
+        389,
+        33065996,
+        923,
+        "PMC13034444",
+        1057,
+        40725288,
+        809,
+        1192,
+        41898924
+      ]
+    },
+    {
+      "compound_id": 423,
+      "compound": "tobacco",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 26,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 76.0,
+      "paper_ids": [
+        40539778,
+        20190095,
+        1039,
+        22733206,
+        536,
+        672,
+        1190,
+        562,
+        41488703,
+        35337025
+      ]
+    },
+    {
+      "compound_id": 343,
+      "compound": "emamectin",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 25,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 0.001,
+      "has_mortality": true,
+      "avg_mortality": 90.18,
+      "paper_ids": [
+        37967118,
+        1040,
+        1051,
+        23970847,
+        930,
+        938,
+        38015916,
+        567,
+        37895115,
+        715
+      ]
+    },
+    {
+      "compound_id": 316,
+      "compound": "abamectin",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 16,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 20.0,
+      "paper_ids": [
+        930,
+        31010115,
+        32191775,
+        39887845,
+        39590438,
+        1033,
+        37754729,
+        34329292,
+        718,
+        369
+      ]
+    },
+    {
+      "compound_id": 303,
+      "compound": "trichoderma",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 15,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 35.84,
+      "paper_ids": [
+        962,
+        41097031,
+        31428072,
+        36771517,
+        "PMC12799740",
+        35336171,
+        1193,
+        750,
+        37580401,
+        30033013
+      ]
+    },
+    {
+      "compound_id": 375,
+      "compound": "methanol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 15,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 0.65,
+      "has_mortality": true,
+      "avg_mortality": 100.0,
+      "paper_ids": [
+        11233088,
+        26813920,
+        737,
+        18679716,
+        549,
+        1031,
+        906,
+        683,
+        11302221,
+        884
+      ]
+    },
+    {
+      "compound_id": 381,
+      "compound": "ethyl acetate",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 15,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 22.69,
+      "has_mortality": true,
+      "avg_mortality": 85.0,
+      "paper_ids": [
+        19155043,
+        18679716,
+        869,
+        1059,
+        41883016,
+        712,
+        906,
+        23593579,
+        23593580,
+        1193
+      ]
+    },
+    {
+      "compound_id": 367,
+      "compound": "hexane",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 13,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 85.0,
+      "paper_ids": [
+        19155043,
+        18679716,
+        869,
+        19610438,
+        999,
+        40363752,
+        712,
+        906,
+        23593579,
+        23593580
+      ]
+    },
+    {
+      "compound_id": 307,
+      "compound": "garlic",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 11,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 39.84,
+      "paper_ids": [
+        1058,
+        325,
+        358,
+        34852006,
+        40868840,
+        754,
+        38653843,
+        757,
+        567,
+        21870043
+      ]
+    },
+    {
+      "compound_id": 364,
+      "compound": "seed kernel",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 11,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        897,
+        354,
+        358,
+        872,
+        331,
+        1039,
+        529,
+        373,
+        341,
+        952
+      ]
+    },
+    {
+      "compound_id": 322,
+      "compound": "linalool",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 11,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        673,
+        37049761,
+        21993797,
+        645,
+        26010088,
+        33158029,
+        29769620,
+        698,
+        39684506,
+        38068668
+      ]
+    },
+    {
+      "compound_id": 319,
+      "compound": "eugenol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 11,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": true,
+      "avg_mortality": 53.1,
+      "paper_ids": [
+        28117698,
+        644,
+        39769579,
+        33158029,
+        41514961,
+        34770801,
+        690,
+        754,
+        41063259,
+        36185660
+      ]
+    },
+    {
+      "compound_id": 376,
+      "compound": "artemisia",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 10,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        33498594,
+        35268647,
+        935,
+        28930281,
+        749,
+        1039,
+        373,
+        40591705,
+        36555036,
+        34456959
+      ]
+    },
+    {
+      "compound_id": 318,
+      "compound": "limonene",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 10,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 99.0,
+      "paper_ids": [
+        673,
+        37049761,
+        38259939,
+        707,
+        35909734,
+        25098951,
+        1161,
+        35206778,
+        542,
+        36903935
+      ]
+    },
+    {
+      "compound_id": 341,
+      "compound": "lecanicillium",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 9,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        42249988,
+        30347206,
+        1192,
+        37513804,
+        685,
+        369,
+        346,
+        "PMC13034444",
+        317
+      ]
+    },
+    {
+      "compound_id": 347,
+      "compound": "steinernema",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 9,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 50.32,
+      "paper_ids": [
+        996,
+        902,
+        42043049,
+        843,
+        23928843,
+        814,
+        35134064,
+        850,
+        317
+      ]
+    },
+    {
+      "compound_id": 360,
+      "compound": "nicotiana",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 9,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 30.0,
+      "paper_ids": [
+        39369025,
+        42088993,
+        21993797,
+        41291974,
+        27746796,
+        748,
+        20190095,
+        23630449,
+        31618578
+      ]
+    },
+    {
+      "compound_id": 380,
+      "compound": "ocimum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 9,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 99.0,
+      "paper_ids": [
+        40265761,
+        18679716,
+        645,
+        25098951,
+        41514961,
+        33919409,
+        35206778,
+        41063259,
+        732
+      ]
+    },
+    {
+      "compound_id": 422,
+      "compound": "clove",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 9,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": true,
+      "avg_mortality": 76.0,
+      "paper_ids": [
+        732,
+        644,
+        39769579,
+        33158029,
+        30444910,
+        34770801,
+        754,
+        757,
+        36185660
+      ]
+    },
+    {
+      "compound_id": 305,
+      "compound": "eucalyptus",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 9,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 76.0,
+      "paper_ids": [
+        513,
+        38259939,
+        23569829,
+        999,
+        41900044,
+        749,
+        688,
+        757,
+        36903935
+      ]
+    },
+    {
+      "compound_id": 407,
+      "compound": "syzygium",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 9,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 401.685,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        17324258,
+        644,
+        30994796,
+        33158029,
+        30444910,
+        34770801,
+        754,
+        732,
+        24144127
+      ]
+    },
+    {
+      "compound_id": 339,
+      "compound": "heterorhabditis",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 8,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 98.0,
+      "paper_ids": [
+        738,
+        996,
+        30347206,
+        829,
+        843,
+        814,
+        29427636,
+        317
+      ]
+    },
+    {
+      "compound_id": 320,
+      "compound": "thymol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 8,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        513,
+        41095203,
+        25145251,
+        26010088,
+        40707657,
+        41900044,
+        33158029,
+        34834876
+      ]
+    },
+    {
+      "compound_id": 345,
+      "compound": "origanum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 7,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        32207008,
+        25145251,
+        "PMC10912041",
+        32678859,
+        33158029,
+        41063259,
+        34834876
+      ]
+    },
+    {
+      "compound_id": 368,
+      "compound": "citrus",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 7,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 100.0,
+      "paper_ids": [
+        37049761,
+        18679716,
+        39057202,
+        17607448,
+        39245339,
+        349,
+        31687359
+      ]
+    },
+    {
+      "compound_id": 378,
+      "compound": "mentha",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 7,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        749,
+        751,
+        38022902,
+        374,
+        40003768,
+        38068668,
+        766
+      ]
+    },
+    {
+      "compound_id": 387,
+      "compound": "annona",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 7,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        737,
+        27308289,
+        748,
+        717,
+        41764334,
+        721,
+        725
+      ]
+    },
+    {
+      "compound_id": 336,
+      "compound": "pongamia",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 6,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        897,
+        354,
+        748,
+        36234639,
+        29412176,
+        560
+      ]
+    },
+    {
+      "compound_id": 365,
+      "compound": "solanum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 6,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        36187457,
+        41300058,
+        23593579,
+        341,
+        38560474,
+        31826619
+      ]
+    },
+    {
+      "compound_id": 404,
+      "compound": "lavandula",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 6,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": true,
+      "avg_mortality": 100.0,
+      "paper_ids": [
+        17324258,
+        26010088,
+        33158029,
+        33919409,
+        40003768,
+        698
+      ]
+    },
+    {
+      "compound_id": 300,
+      "compound": "beauveria bassiana",
+      "pest": "Bemisia tabaci",
+      "crop": "tomato",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        133,
+        "PMC12084329",
+        108,
+        110,
+        15
+      ]
+    },
+    {
+      "compound_id": 302,
+      "compound": "bacillus",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 8.0,
+      "paper_ids": [
+        128,
+        129,
+        "PMC12701044",
+        55,
+        "PMC12025000"
+      ]
+    },
+    {
+      "compound_id": 340,
+      "compound": "lecanicillium lecanii",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        30347206,
+        685,
+        369,
+        346,
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 359,
+      "compound": "paecilomyces",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        321,
+        1192,
+        847,
+        "PMC13034444",
+        317
+      ]
+    },
+    {
+      "compound_id": 344,
+      "compound": "bacillus spp",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        28932199,
+        31428072,
+        37560520,
+        37888621,
+        41632308
+      ]
+    },
+    {
+      "compound_id": 321,
+      "compound": "carvacrol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        32207008,
+        41095203,
+        29769620,
+        41063259,
+        34834876
+      ]
+    },
+    {
+      "compound_id": 328,
+      "compound": "plant extract",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        749,
+        33158029,
+        719,
+        36499184,
+        40591705
+      ]
+    },
+    {
+      "compound_id": 405,
+      "compound": "piper",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 5,
+      "grade": "A",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        33944775,
+        691,
+        693,
+        631,
+        40003768
+      ]
+    },
+    {
+      "compound_id": 346,
+      "compound": "thymus",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        26010088,
+        "PMC10912041",
+        25145251,
+        41900044
+      ]
+    },
+    {
+      "compound_id": 348,
+      "compound": "steinernema carpocapsae",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 100.0,
+      "paper_ids": [
+        35134064,
+        42043049,
+        902,
+        814
+      ]
+    },
+    {
+      "compound_id": 354,
+      "compound": "capsicum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 84.0,
+      "paper_ids": [
+        42188186,
+        38132612,
+        41939357,
+        41300058
+      ]
+    },
+    {
+      "compound_id": 313,
+      "compound": "phenol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": true,
+      "avg_lc50": 175.0,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        37762496,
+        708,
+        41302856,
+        660
+      ]
+    },
+    {
+      "compound_id": 297,
+      "compound": "pyrethrin",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 100.0,
+      "paper_ids": [
+        1168,
+        530,
+        707,
+        349
+      ]
+    },
+    {
+      "compound_id": 308,
+      "compound": "turmeric",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        38132632,
+        20821002,
+        34852006,
+        567
+      ]
+    },
+    {
+      "compound_id": 312,
+      "compound": "flavonoid",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 40.0,
+      "paper_ids": [
+        24635720,
+        40787329,
+        36675270,
+        42188143
+      ]
+    },
+    {
+      "compound_id": 384,
+      "compound": "bacillus subtilis",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        797,
+        941,
+        25359605,
+        685
+      ]
+    },
+    {
+      "compound_id": 389,
+      "compound": "jatropha",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        25250382,
+        539,
+        41173950,
+        767
+      ]
+    },
+    {
+      "compound_id": 408,
+      "compound": "clove essential",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 4,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        34770801,
+        30444910,
+        644,
+        36185660
+      ]
+    },
+    {
+      "compound_id": 302,
+      "compound": "bacillus",
+      "pest": "stem borer",
+      "crop": "rice",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        32,
+        33,
+        30
+      ]
+    },
+    {
+      "compound_id": 300,
+      "compound": "beauveria bassiana",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 7.0,
+      "paper_ids": [
+        128,
+        49,
+        "PMC12701044"
+      ]
+    },
+    {
+      "compound_id": 342,
+      "compound": "hirsutella",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        1192,
+        317,
+        30347206
+      ]
+    },
+    {
+      "compound_id": 350,
+      "compound": "melia",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": true,
+      "avg_lc50": 0.65,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        11233088,
+        11302221,
+        35628141
+      ]
+    },
+    {
+      "compound_id": 351,
+      "compound": "bacillus cereus",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 34.2,
+      "paper_ids": [
+        19542344,
+        31897767,
+        38068672
+      ]
+    },
+    {
+      "compound_id": 310,
+      "compound": "alkaloid",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        313,
+        35164372,
+        646
+      ]
+    },
+    {
+      "compound_id": 361,
+      "compound": "custard apple",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        737,
+        748,
+        325
+      ]
+    },
+    {
+      "compound_id": 372,
+      "compound": "vitex",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        900,
+        524,
+        358
+      ]
+    },
+    {
+      "compound_id": 385,
+      "compound": "cinnamomum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        10732994,
+        754,
+        30444910
+      ]
+    },
+    {
+      "compound_id": 390,
+      "compound": "chrysanthemum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        1168,
+        748,
+        41097031
+      ]
+    },
+    {
+      "compound_id": 309,
+      "compound": "lantana",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        39684506,
+        524,
+        549
+      ]
+    },
+    {
+      "compound_id": 393,
+      "compound": "curcuma",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        38132632,
+        17324258,
+        693
+      ]
+    },
+    {
+      "compound_id": 395,
+      "compound": "bacillus amyloliquefaciens",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        41514961,
+        15715945,
+        40265761
+      ]
+    },
+    {
+      "compound_id": 396,
+      "compound": "clerodendrum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        762,
+        659,
+        524
+      ]
+    },
+    {
+      "compound_id": 306,
+      "compound": "citronella",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        668,
+        542,
+        671
+      ]
+    },
+    {
+      "compound_id": 403,
+      "compound": "bisabolol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        655,
+        23569829,
+        40394399
+      ]
+    },
+    {
+      "compound_id": 411,
+      "compound": "aduncum essential",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        33944775,
+        691,
+        631
+      ]
+    },
+    {
+      "compound_id": 413,
+      "compound": "origanum vulgare",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 3,
+      "grade": "B",
+      "has_lc50": true,
+      "avg_lc50": 770.67,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        32207008,
+        34834876,
+        33158029
+      ]
+    },
+    {
+      "compound_id": 302,
+      "compound": "bacillus",
+      "pest": "Meloidogyne incognita",
+      "crop": "vegetables",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        19,
+        116
+      ]
+    },
+    {
+      "compound_id": 301,
+      "compound": "metarhizium anisopliae",
+      "pest": "Bemisia tabaci",
+      "crop": "tomato",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        108,
+        110
+      ]
+    },
+    {
+      "compound_id": 303,
+      "compound": "trichoderma",
+      "pest": "Meloidogyne incognita",
+      "crop": "vegetables",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        121,
+        117
+      ]
+    },
+    {
+      "compound_id": 305,
+      "compound": "eucalyptus",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 93.0,
+      "paper_ids": [
+        "PMC13210525",
+        127
+      ]
+    },
+    {
+      "compound_id": 309,
+      "compound": "lantana",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525",
+        127
+      ]
+    },
+    {
+      "compound_id": 295,
+      "compound": "neem",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 96.0,
+      "paper_ids": [
+        "PMC13210525",
+        127
+      ]
+    },
+    {
+      "compound_id": 317,
+      "compound": "bacillus thuringiensis",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC12701044",
+        "PMC12025000"
+      ]
+    },
+    {
+      "compound_id": 338,
+      "compound": "tephrosia",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        717,
+        37185885
+      ]
+    },
+    {
+      "compound_id": 352,
+      "compound": "allium",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        754,
+        21870043
+      ]
+    },
+    {
+      "compound_id": 369,
+      "compound": "euphorbia",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        505,
+        349
+      ]
+    },
+    {
+      "compound_id": 374,
+      "compound": "nomuraea",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 70.0,
+      "paper_ids": [
+        1192,
+        371
+      ]
+    },
+    {
+      "compound_id": 373,
+      "compound": "nomuraea rileyi",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 70.0,
+      "paper_ids": [
+        1192,
+        371
+      ]
+    },
+    {
+      "compound_id": 311,
+      "compound": "terpene",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 30.0,
+      "paper_ids": [
+        42088993,
+        35909734
+      ]
+    },
+    {
+      "compound_id": 392,
+      "compound": "farnesol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": true,
+      "avg_lc50": 33.67,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        771,
+        37188291
+      ]
+    },
+    {
+      "compound_id": 394,
+      "compound": "its crude",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 90.0,
+      "paper_ids": [
+        39926106,
+        727
+      ]
+    },
+    {
+      "compound_id": 298,
+      "compound": "rotenone",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        530,
+        35366437
+      ]
+    },
+    {
+      "compound_id": 398,
+      "compound": "deterrence while",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        683,
+        549
+      ]
+    },
+    {
+      "compound_id": 330,
+      "compound": "geraniol",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        39926412,
+        766
+      ]
+    },
+    {
+      "compound_id": 410,
+      "compound": "extracting clove",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        34770801,
+        644
+      ]
+    },
+    {
+      "compound_id": 414,
+      "compound": "annua essential",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        33498594,
+        935
+      ]
+    },
+    {
+      "compound_id": 331,
+      "compound": "tagetes",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        673,
+        729
+      ]
+    },
+    {
+      "compound_id": 416,
+      "compound": "datura",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        683,
+        1039
+      ]
+    },
+    {
+      "compound_id": 418,
+      "compound": "zanthoxylum",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        37049761,
+        693
+      ]
+    },
+    {
+      "compound_id": 419,
+      "compound": "ricinus",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": true,
+      "avg_lc50": 175.0,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        708,
+        719
+      ]
+    },
+    {
+      "compound_id": 304,
+      "compound": "karanja",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        748,
+        973
+      ]
+    },
+    {
+      "compound_id": 325,
+      "compound": "nicotine",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 2,
+      "grade": "B",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        35164372,
+        748
+      ]
+    },
+    {
+      "compound_id": 326,
+      "compound": "capsaicin",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 1,
+      "grade": "C",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": true,
+      "avg_mortality": 100.0,
+      "paper_ids": [
+        707
+      ]
+    },
+    {
+      "compound_id": 300,
+      "compound": "beauveria bassiana",
+      "pest": "Nilaparvata lugens",
+      "crop": "rice",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        13
+      ]
+    },
+    {
+      "compound_id": 300,
+      "compound": "beauveria bassiana",
+      "pest": "stem borer",
+      "crop": "rice",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        24
+      ]
+    },
+    {
+      "compound_id": 301,
+      "compound": "metarhizium anisopliae",
+      "pest": "stem borer",
+      "crop": "rice",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        24
+      ]
+    },
+    {
+      "compound_id": 303,
+      "compound": "trichoderma",
+      "pest": "stem borer",
+      "crop": "rice",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        24
+      ]
+    },
+    {
+      "compound_id": 301,
+      "compound": "metarhizium anisopliae",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        53
+      ]
+    },
+    {
+      "compound_id": 310,
+      "compound": "alkaloid",
+      "pest": "Nilaparvata lugens",
+      "crop": "rice",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        91
+      ]
+    },
+    {
+      "compound_id": 312,
+      "compound": "flavonoid",
+      "pest": "Bemisia tabaci",
+      "crop": "tomato",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        102
+      ]
+    },
+    {
+      "compound_id": 305,
+      "compound": "eucalyptus",
+      "pest": "Bemisia tabaci",
+      "crop": "tomato",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        108
+      ]
+    },
+    {
+      "compound_id": 296,
+      "compound": "azadirachtin",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 302,
+      "compound": "bacillus",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 300,
+      "compound": "beauveria bassiana",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 301,
+      "compound": "metarhizium anisopliae",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 299,
+      "compound": "spinosad",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 322,
+      "compound": "linalool",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 317,
+      "compound": "bacillus thuringiensis",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 319,
+      "compound": "eugenol",
+      "pest": "Bemisia tabaci",
+      "crop": "tomato",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC12917703"
+      ]
+    },
+    {
+      "compound_id": 352,
+      "compound": "allium",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 376,
+      "compound": "artemisia",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 385,
+      "compound": "cinnamomum",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 381,
+      "compound": "ethyl acetate",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 369,
+      "compound": "euphorbia",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 367,
+      "compound": "hexane",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 404,
+      "compound": "lavandula",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 350,
+      "compound": "melia",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 378,
+      "compound": "mentha",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 375,
+      "compound": "methanol",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 371,
+      "compound": "neem seed",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 360,
+      "compound": "nicotiana",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 365,
+      "compound": "solanum",
+      "pest": "Spodoptera frugiperda",
+      "crop": "maize",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13210525"
+      ]
+    },
+    {
+      "compound_id": 341,
+      "compound": "lecanicillium",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 340,
+      "compound": "lecanicillium lecanii",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 359,
+      "compound": "paecilomyces",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13034444"
+      ]
+    },
+    {
+      "compound_id": 423,
+      "compound": "tobacco",
+      "pest": "Plutella xylostella",
+      "crop": "mustard",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC13051604"
+      ]
+    },
+    {
+      "compound_id": 330,
+      "compound": "geraniol",
+      "pest": "Bemisia tabaci",
+      "crop": "tomato",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC12917703"
+      ]
+    },
+    {
+      "compound_id": 331,
+      "compound": "tagetes",
+      "pest": "Bemisia tabaci",
+      "crop": "tomato",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        "PMC12500831"
+      ]
+    },
+    {
+      "compound_id": 424,
+      "compound": "mahogany",
+      "pest": "Helicoverpa armigera",
+      "crop": "cotton",
+      "n_papers": 1,
+      "grade": "D",
+      "has_lc50": false,
+      "avg_lc50": null,
+      "has_mortality": false,
+      "avg_mortality": null,
+      "paper_ids": [
+        872
+      ]
+    }
+  ]
+}

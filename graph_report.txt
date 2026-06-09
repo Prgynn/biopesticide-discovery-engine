@@ -1,0 +1,231 @@
+============================================================
+  BIOPESTICIDE KNOWLEDGE GRAPH REPORT
+  Generated: 2026-06-09 14:05
+============================================================
+
+NODES: 5691
+  compound       121
+  crop           7
+  evidence       4527
+  paper          1028
+  pest           8
+
+EDGES: 18116
+  ACTIVE_AGAINST               4527
+  ATTACKS_CROP                 8
+  FOUND_IN_PAPER               4527
+  SUPPORTED_BY                 4527
+  TREATS_CROP                  4527
+
+
+BROAD-SPECTRUM COMPOUNDS (active against 2 pests)
+--------------------------------------------------
+  beauveria bassiana
+     Helicoverpa armigera
+     Plutella xylostella
+     Spodoptera frugiperda
+     Bemisia tabaci
+     stem borer
+     Nilaparvata lugens
+  bacillus
+     Helicoverpa armigera
+     Plutella xylostella
+     Spodoptera frugiperda
+     stem borer
+     Meloidogyne incognita
+  metarhizium anisopliae
+     Helicoverpa armigera
+     Plutella xylostella
+     Spodoptera frugiperda
+     Bemisia tabaci
+     stem borer
+  oil
+     Helicoverpa armigera
+     Leucinodes orbonalis
+     Plutella xylostella
+     Spodoptera frugiperda
+  extract
+     Helicoverpa armigera
+     Meloidogyne incognita
+     Spodoptera frugiperda
+     Nilaparvata lugens
+  essential
+     Helicoverpa armigera
+     Plutella xylostella
+     Spodoptera frugiperda
+     Bemisia tabaci
+  of the
+     Helicoverpa armigera
+     Spodoptera frugiperda
+     Nilaparvata lugens
+     Bemisia tabaci
+  trichoderma
+     Helicoverpa armigera
+     stem borer
+     Meloidogyne incognita
+  eucalyptus
+     Helicoverpa armigera
+     Spodoptera frugiperda
+     Bemisia tabaci
+  bacillus thuringiensis
+     Helicoverpa armigera
+     Plutella xylostella
+     Spodoptera frugiperda
+  in the
+     Helicoverpa armigera
+     Spodoptera frugiperda
+     Bemisia tabaci
+  with the
+     Helicoverpa armigera
+     Spodoptera frugiperda
+     Bemisia tabaci
+  alkaloid
+     Helicoverpa armigera
+     Nilaparvata lugens
+  flavonoid
+     Helicoverpa armigera
+     Bemisia tabaci
+  spinosad
+     Helicoverpa armigera
+     Plutella xylostella
+  lantana
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  neem
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  azadirachtin
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  linalool
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  eugenol
+     Helicoverpa armigera
+     Bemisia tabaci
+  while
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  lecanicillium
+     Helicoverpa armigera
+     Plutella xylostella
+  lecanicillium lecanii
+     Helicoverpa armigera
+     Plutella xylostella
+  paecilomyces
+     Helicoverpa armigera
+     Plutella xylostella
+  for the
+     Helicoverpa armigera
+     Plutella xylostella
+  allium
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  and leaf
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  and neem
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  artemisia
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  by the
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  cinnamomum
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  ethyl acetate
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  euphorbia
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  from neem
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  hexane
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  lavandula
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  melia
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  mentha
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  methanol
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  neem seed
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  nicotiana
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  of neem
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  solanum
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  with neem
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  potential of
+     Helicoverpa armigera
+     Spodoptera frugiperda
+  tobacco
+     Helicoverpa armigera
+     Plutella xylostella
+  geraniol
+     Helicoverpa armigera
+     Bemisia tabaci
+  efficacy of
+     Helicoverpa armigera
+     Bemisia tabaci
+  tagetes
+     Helicoverpa armigera
+     Bemisia tabaci
+  crude
+     Helicoverpa armigera
+     Nilaparvata lugens
+  of plant
+     Helicoverpa armigera
+     Nilaparvata lugens
+
+
+BEST EVIDENCE COMPOUND PER PEST
+--------------------------------------------------
+  Bemisia tabaci                      beauveria bassiana        Grade=B  no LC50
+  Helicoverpa armigera                beauveria bassiana        Grade=B  no LC50
+  Leucinodes orbonalis                oil                       Grade=C  no LC50
+  Meloidogyne incognita               bacillus                  Grade=B  no LC50
+  Nilaparvata lugens                  beauveria bassiana        Grade=B  no LC50
+  Plutella xylostella                 oil                       Grade=C  no LC50
+  Spodoptera frugiperda               beauveria bassiana        Grade=B  no LC50
+  stem borer                          beauveria bassiana        Grade=B  no LC50
+
+
+HOW TO QUERY THIS GRAPH
+--------------------------------------------------
+
+  In Python:
+    from day13_build_graph import *
+    import sqlite3, json
+
+    conn = sqlite3.connect('biopesticide.db')
+    nodes, edges, _ = build_graph(conn)
+    conn.close()
+
+    # Which compounds treat aphids?
+    results = query_compounds_for_pest(nodes, edges, 'Lipaphis erysimi')
+
+    # What pests does azadirachtin treat?
+    results = query_pests_for_compound(nodes, edges, 'azadirachtin')
+
+    # Broad-spectrum candidates
+    broad = query_broad_spectrum_compounds(nodes, edges, min_pests=3)

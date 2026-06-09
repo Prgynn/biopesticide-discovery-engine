@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-06-09T14:04:49.596737",
+  "dry_run": false,
+  "normalizations": [
+    {
+      "canonical": "azadirachtin",
+      "keep_id": 296,
+      "merged_ids": [
+        335
+      ],
+      "original_names": [
+        "azadirachtin",
+        "azadirachta"
+      ],
+      "actions": [
+        "    Reassign 0 bioactivity rows: compound_id 335 \u2192 296",
+        "    Rename compound 296 \u2192 'azadirachtin'"
+      ]
+    },
+    {
+      "canonical": "pyrethrin",
+      "keep_id": 297,
+      "merged_ids": [
+        370
+      ],
+      "original_names": [
+        "pyrethrin",
+        "pyrethrum"
+      ],
+      "actions": [
+        "    Reassign 0 bioactivity rows: compound_id 370 \u2192 297",
+        "    Rename compound 297 \u2192 'pyrethrin'"
+      ]
+    },
+    {
+      "canonical": "beauveria bassiana",
+      "keep_id": 300,
+      "merged_ids": [
+        332
+      ],
+      "original_names": [
+        "beauveria bassiana",
+        "beauveria"
+      ],
+      "actions": [
+        "    Reassign 0 bioactivity rows: compound_id 332 \u2192 300",
+        "    Rename compound 300 \u2192 'beauveria bassiana'"
+      ]
+    },
+    {
+      "canonical": "metarhizium anisopliae",
+      "keep_id": 301,
+      "merged_ids": [
+        333,
+        334,
+        355
+      ],
+      "original_names": [
+        "metarhizium anisopliae",
+        "metarhizium",
+        "metarhizium rileyi",
+        "metarhizium isolates"
+      ],
+      "actions": [
+        "    Reassign 0 bioactivity rows: compound_id 333 \u2192 301",
+        "    Reassign 0 bioactivity rows: compound_id 334 \u2192 301",
+        "    Reassign 0 bioactivity rows: compound_id 355 \u2192 301",
+        "    Rename compound 301 \u2192 'metarhizium anisopliae'"
+      ]
+    },
+    {
+      "canonical": "trichoderma",
+      "keep_id": 303,
+      "merged_ids": [
+        329,
+        349
+      ],
+      "original_names": [
+        "trichoderma",
+        "trichoderma species",
+        "trichoderma harzianum"
+      ],
+      "actions": [
+        "    Reassign 0 bioactivity rows: compound_id 329 \u2192 303",
+        "    Reassign 0 bioactivity rows: compound_id 349 \u2192 303",
+        "    Rename compound 303 \u2192 'trichoderma'"
+      ]
+    },
+    {
+      "canonical": "abamectin",
+      "keep_id": 316,
+      "merged_ids": [
+        356
+      ],
+      "original_names": [
+        "abamectin",
+        "avermectin"
+      ],
+      "actions": [
+        "    Reassign 0 bioactivity rows: compound_id 356 \u2192 316",
+        "    Rename compound 316 \u2192 'abamectin'"
+      ]
+    }
+  ],
+  "added_canonicals": []
+}
