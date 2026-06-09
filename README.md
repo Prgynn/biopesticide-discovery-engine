@@ -72,6 +72,16 @@ Evidence-driven scientific discovery engine coming soon.
 - Molecular docking via AutoDock Vina
 - AI-powered compound ranking and hypothesis generation
 
+## Web Interface
 
+Run locally: python app.py
+Open browser at http://localhost:5000
+
+Features:
+- Search compounds and pests
+- Filter by evidence grade (A/B/C/D)
+- Card and table view
+- 1177 papers, 93 compounds, 3694 bioactivity records
+- 56 Grade A compound-pest pairs
 
                           
