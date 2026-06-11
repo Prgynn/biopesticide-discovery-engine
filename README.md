@@ -104,11 +104,24 @@ Evidence-driven scientific discovery engine coming soon.
 Run locally: python app.py
 Open browser at http://localhost:5000
 
-Features:
-- Search compounds and pests
-- Filter by evidence grade (A/B/C/D)
-- Card and table view
-- 1177 papers, 93 compounds, 3694 bioactivity records
-- 56 Grade A compound-pest pairs
+## Features
+
+* Federated search across PubMed, Semantic Scholar, Europe PMC, and OpenAlex
+* Search and explore compounds, pests, and crop-specific evidence
+* Interactive dashboard with card view, table view, and broad-spectrum analysis
+* Evidence grading system (Grade A/B/C/D) for compound-pest relationships
+* 1,500+ scientific papers integrated into a unified knowledge base
+* 120+ extracted biopesticidal compounds
+* 4,500+ bioactivity records derived from scientific literature
+* Full-text scientific paper and XML extraction
+* Automated extraction of quantitative bioactivity data (mortality, LC50, efficacy)
+* Experimental table mining from research publications
+* Knowledge graph with 5,600+ entities and 18,000+ relationships
+* SQLite-backed scientific database for scalable querying
+* Molecular property analysis using RDKit
+* Compound ranking based on evidence strength and bioactivity data
+* Top-performing compound-pest pair discovery
+* Automated duplicate detection and data normalization
+* Research-oriented platform for evidence-driven biopesticide discovery
 
                           
