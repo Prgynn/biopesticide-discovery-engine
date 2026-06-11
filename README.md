@@ -55,7 +55,7 @@ Building at the intersection of AI and chemistry.
 
 Evidence-driven scientific discovery engine coming soon.  
 
-## ## Current Capabilities
+## Current Capabilities
 
 * Federated scientific literature search across PubMed, Semantic Scholar, Europe PMC, and OpenAlex
 * Knowledge base built from 1,377+ scientific papers related to biopesticides and Indian crop pests
