@@ -58,7 +58,7 @@ Evidence-driven scientific discovery engine coming soon.
 ## Current Capabilities
 
 * Federated scientific literature search across PubMed, Semantic Scholar, Europe PMC, and OpenAlex
-* Knowledge base built from 1,377+ scientific papers related to biopesticides and Indian crop pests
+* Knowledge base built from 1,500+ scientific papers related to biopesticides and Indian crop pests
 * Coverage of major Indian agricultural pests including *Helicoverpa armigera*, *Spodoptera frugiperda*, *Bemisia tabaci*, *Nilaparvata lugens*, and others
 * Full-text XML extraction from open-access scientific publications
 * Automated extraction of experimental tables and quantitative bioactivity data
