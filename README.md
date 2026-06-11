@@ -1,7 +1,6 @@
 # Biopesticide Discovery Engine
 
-An AI-powered system that automatically discovers natural 
-biopesticide compounds for Indian crop pests using 
+Evidence-driven biopesticide discovery platform for Indian crop pests using 
 scientific literature mining and NLP analysis.
 
 ## What This Does
@@ -56,21 +55,49 @@ Building at the intersection of AI and chemistry.
 
 Evidence-driven scientific discovery engine coming soon.  
 
-## Current Capabilities
+## ## Current Capabilities
 
-- Federated search across PubMed, Semantic Scholar, Europe PMC
-- 123 papers across 13 elite Indian crop pests
-- Full text XML extraction from open access papers
-- 56 experimental tables extracted from scientific papers
-- NLP compound extraction using spaCy
-- Molecular property analysis using RDKit
-- Automated knowledge base with progress saving
+* Federated scientific literature search across PubMed, Semantic Scholar, Europe PMC, and OpenAlex
+* Knowledge base built from 1,377+ scientific papers related to biopesticides and Indian crop pests
+* Coverage of major Indian agricultural pests including *Helicoverpa armigera*, *Spodoptera frugiperda*, *Bemisia tabaci*, *Nilaparvata lugens*, and others
+* Full-text XML extraction from open-access scientific publications
+* Automated extraction of experimental tables and quantitative bioactivity data
+* NLP-based compound extraction and normalization using spaCy
+* Molecular descriptor and property analysis using RDKit
+* SQLite-backed scientific database replacing JSON storage
+* 4,500+ bioactivity records linking compounds, pests, crops, and experimental outcomes
+* 120+ extracted natural and biopesticidal compounds
+* Evidence grading system (A/B/C/D) based on quantitative bioactivity evidence
+* Knowledge graph construction with 5,600+ nodes and 18,000+ relationships
+* Compound–pest relationship mapping and evidence aggregation
+* Interactive dashboard for searching, filtering, and exploring compound-pest evidence
+* Automated deduplication and progress-tracked extraction pipelines
+* Local research platform for evidence-driven biopesticide discovery
 
-## Coming Soon
+## Technology Stack
 
-- Multi-agent jury debate system
-- Molecular docking via AutoDock Vina
-- AI-powered compound ranking and hypothesis generation
+* Python
+* SQLite
+* spaCy
+* RDKit
+* PubMed API (Biopython)
+* Semantic Scholar API
+* Europe PMC API
+* OpenAlex API
+* Flask
+* HTML/CSS/JavaScript
+
+## In Development
+
+* Improved pest assignment and entity resolution
+* Advanced bioactivity re-extraction pipeline
+* Cross-pest compound transfer prediction
+* Scientific Jury reasoning framework
+* Mechanism-of-action extraction
+* Molecular docking integration (AutoDock Vina)
+* Evidence-based hypothesis generation
+* Compound intelligence pages with visual analytics
+
 
 ## Web Interface
 
